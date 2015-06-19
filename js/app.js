@@ -77,7 +77,7 @@
         }
       }).state('project.detail', {
         url: ':slug',
-        templateUrl: 'views/catalog/project.detail.html',
+        templateUrl: 'views/encommuns/project.detail.html',
         controller: 'ImaginationProjectSheetCtrl',
         ncyBreadcrumb: {
           label: '{{project.title}}',
