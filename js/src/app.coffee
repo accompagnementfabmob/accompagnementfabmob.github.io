@@ -74,14 +74,14 @@ angular.module('imagination', ['commons.catalog', 'commons.encommuns', 'commons.
         )
         .state('project.new',
                 url: 'new',
-                templateUrl: 'views/encommuns/commons.new.html',
+                templateUrl: 'views/catalog/project.new.html',
                 ncyBreadcrumb:
                     label: 'Nouveau projet'
                     parent : 'project.list'
         )
         .state('project.detail',
                 url: ':slug',
-                templateUrl: 'views/encommuns/commons.detail.html',
+                templateUrl: 'views/encommuns/project.detail.html',
                 controller : 'ImaginationProjectSheetCtrl'
                 ncyBreadcrumb:
                     label: '{{project.title}}'
