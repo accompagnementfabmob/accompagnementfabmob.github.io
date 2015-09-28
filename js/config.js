@@ -6,7 +6,7 @@
     projectSheetTemplateSlug: 'accompagnement',
     defaultSiteTags: ['accompagnement', 'fabmob'],
     editorialSuggestedTags: [],
-    defaultResultLimit: 18,
+    defaultResultLimit: 40,
     bucket_uri: 'http://data.patapouf.org/bucket/upload/',
     loginBaseUrl: 'http://data.patapouf.org/api/v0',
     oauthBaseUrl: 'http://accompagnementfabmob.github.io',
