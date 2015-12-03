@@ -3,7 +3,7 @@
   this.config = {
     templateBaseUrl: '/views/',
     useHtml5Mode: false,
-    projectSheetTemplateSlug: 'fabmob',
+    projectSheetTemplateSlug: 'accompagnement',
     defaultSiteTags: ['accompagnement', 'fabmob'],
     editorialSuggestedTags: [],
     defaultResultLimit: 50,
