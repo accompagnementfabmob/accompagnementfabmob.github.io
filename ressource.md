@@ -15,10 +15,6 @@ permalink: /ressource/
 	<script src="http://static.simile.mit.edu/exhibit/extensions-2.0/time/time-extension.js" type="text/javascript"></script> 
 	<script src="http://static.simile.mit.edu/exhibit/extensions-2.0/map/map-extension.js?gmapkey=ABQIAAAAKYwUwypRM_ZXYQ5_zyNE3xSo63t6lJe6SlX3GHCBzjd4Vk7sphSNZf3C2I9ga8jsUbI11rcpR0obyQ" type="text/javascript"></script> 
 
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900,400italic|Source+Code+Pro:400' rel='stylesheet' type='text/css'>
- 
-</head>
-<body>
 <h1>Ressources</h1>
 <!-- <h2></h2> -->
 
