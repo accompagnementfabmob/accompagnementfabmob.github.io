@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: exhibit
 permalink: /ressource/
 ---
 
@@ -11,9 +11,7 @@ permalink: /ressource/
        href="http://spreadsheets.google.com/feeds/list/1uCtd0dAtLcbqp0Kifg4k_0WXMNn-cY_8wuRPU3SOjL8/od6/public/basic?alt=json-in-script"
        ex:converter="googleSpreadsheets" /> 
  
-	<script src="http://static.simile.mit.edu/exhibit/api-2.0/exhibit-api.js" type="text/javascript"></script> 
-	<script src="http://static.simile.mit.edu/exhibit/extensions-2.0/time/time-extension.js" type="text/javascript"></script> 
-	<script src="http://static.simile.mit.edu/exhibit/extensions-2.0/map/map-extension.js?gmapkey=ABQIAAAAKYwUwypRM_ZXYQ5_zyNE3xSo63t6lJe6SlX3GHCBzjd4Vk7sphSNZf3C2I9ga8jsUbI11rcpR0obyQ" type="text/javascript"></script> 
+
 
 <h1>Ressources</h1>
 <!-- <h2></h2> -->
